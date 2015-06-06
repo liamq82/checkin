@@ -1,0 +1,22 @@
+{
+  "name": "checkin",
+  "version": "1.0.0",
+  "description": "checkin on beaches for kitesurfers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamq82/checkin.git"
+  },
+  "author": "liam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamq82/checkin/issues"
+  },
+  "homepage": "https://github.com/liamq82/checkin#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
